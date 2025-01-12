@@ -6,7 +6,7 @@ This repository serves as a showcase of my skills, projects, and learning journe
 * 📄 Know about my experiences check my resume and portfolio
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![Streamlit](https://img.icons8.com/ios/50/000000/streamlit.png)
+![Streamlit](https://img.icons8.com/ios/50/000000/streamlit.png&logoColor=ffffff)
 ![NumPy](https://img.icons8.com/ios/50/000000/numpy.png)
 ![Pandas](https://img.icons8.com/ios/50/000000/pandas.png)
 ![SQL](https://img.icons8.com/ios/50/000000/database.png)
