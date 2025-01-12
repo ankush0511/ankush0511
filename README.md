@@ -20,7 +20,7 @@ This repository serves as a showcase of my skills, projects, and learning journe
 ## Languages and Tools
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![Streamlit](https://img.icons8.com/color/48/000000/streamlit.png)
 ![SQL](https://img.icons8.com/color/48/000000/database.png)
 ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
 ![HuggingFace](https://huggingface.co/front/assets/huggingface_logo.svg)
