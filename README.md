@@ -1,8 +1,7 @@
 ## Hi 👋 I'm *Ankush Chaudhary*, 
 A passionate and aspiring Data Scientist with a strong foundation in Python, data analysis, machine learning, and database management.
 This repository serves as a showcase of my skills, projects, and learning journey in the field of Data Science.
-| **Python**     | ![Python Logo]![image](https://github.com/user-attachments/assets/e4de05af-4cc9-4774-a37c-cd5f5dc60eab)
- | Proficient in Python for data manipulation, analysis, and machine learning. 
+| **Python**     | ![Python Logo]![image]Logo device only | Proficient in Python for data manipulation, analysis, and machine learning. 
 
 | **Pandas**     | ![Pandas Logo](Images/pandas_logo.png) | Experienced in data manipulation and analysis using Pandas.                 
 
