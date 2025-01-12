@@ -7,12 +7,9 @@ This repository serves as a showcase of my skills, projects, and learning journe
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Streamlit](https://img.icons8.com/ios/50/000000/streamlit.png&logoColor=ffffff)
-![NumPy](https://img.icons8.com/ios/50/000000/numpy.png)
-![Pandas](https://img.icons8.com/ios/50/000000/pandas.png)
 ![SQL](https://img.icons8.com/ios/50/000000/database.png)
 ![Scikit-learn](https://img.icons8.com/ios/50/000000/scikit-learn.png)
 ![HuggingFace](https://img.icons8.com/ios/50/000000/huggingface.png)
 ![Git](https://img.icons8.com/ios/50/000000/git.png)
 ![OpenCV](https://img.icons8.com/ios/50/000000/opencv.png)
 ![Matplotlib](https://img.icons8.com/ios/50/000000/matplotlib.png)
-![NLP](https://img.icons8.com/ios/50/000000/natural-language-processing.png)
