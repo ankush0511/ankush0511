@@ -15,3 +15,15 @@ This repository serves as a showcase of my skills, projects, and learning journe
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
 ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png)
+
+
+## Languages and Tools
+
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![SQL](https://img.icons8.com/color/48/000000/database.png)
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![HuggingFace](https://huggingface.co/front/assets/huggingface_logo.svg)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
+![Matplotlib](https://matplotlib.org/stable/_static/images/logo2.svg)
