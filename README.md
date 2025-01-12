@@ -15,4 +15,5 @@ This repository serves as a showcase of my skills, projects, and learning journe
 ![HuggingFace](https://huggingface.co/front/assets/huggingface_logo.svg)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
-![Pyplot](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
+![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
