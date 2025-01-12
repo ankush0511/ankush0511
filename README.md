@@ -2,6 +2,7 @@
 A passionate and aspiring Data Scientist with a strong foundation in Python, data analysis, machine learning, and database management.
 This repository serves as a showcase of my skills, projects, and learning journey in the field of Data Science.
 | **Python**     | ![Python Logo](Images/python_logo.png) | Proficient in Python for data manipulation, analysis, and machine learning. 
+![image](https://github.com/user-attachments/assets/c35d9672-ed74-4fa7-bea1-93b5854ea4ad)
 
 | **Pandas**     | ![Pandas Logo](Images/pandas_logo.png) | Experienced in data manipulation and analysis using Pandas.                 
 
