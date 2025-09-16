@@ -14,6 +14,8 @@ This repository serves as a showcase of my skills, projects, and learning journe
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush0511&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=anksuh0511&theme=onedark)](https://github.com/ankush0511/github-profile-trophy)
+---
 [![](https://visitcount.itsvg.in/api?id=ankush0511&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
