@@ -21,13 +21,14 @@ This repository serves as a showcase of my skills, projects, and learning journe
 </table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush0511&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankush0511&theme=onedark)](https://github.com/ankush0511/github-profile-trophy)
 ---
 [![](https://visitcount.itsvg.in/api?id=ankush0511&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-https://leetcode-badge-showcase.vercel.app/api?username=ankush_04
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=ankush_04)
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush0511/ankush0511/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush0511/ankush0511/output/github-snake.svg" />
